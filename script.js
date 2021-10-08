@@ -108,5 +108,4 @@ function update(data, type){
 
 d3.csv('coffee-house-chains.csv', d3.autoType).then(data=>{
     update(data, type);
-    console.log(data)
 });
