@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-style: italic;
+}
+
+label {
+    margin-top: 5px;
+}
+
+select {
+    width: 300px;
+    margin-left: 70px;
+}
+
+button {
+    margin-left: 100px;
+}
